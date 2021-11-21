@@ -13,7 +13,7 @@ canvas.style.setProperty('height', CANVAS_HEIGHT + 'px')
 const ctx = canvas.getContext('2d')
 
 
-// ------- Project Initialization -------
+// ------- Project Initialization ------- 
 const width = canvas.width / 2
 const height = canvas.height / 2
 
